@@ -26,3 +26,13 @@ Technology Stack:
 • Visualization: Plotly
 
 This project provides an engaging environment for learning and self-assessment while demonstrating practical implementation of authentication, database management, analytics, leaderboard systems, and full-stack web application development.
+#output
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fb8db10f-d374-4071-8e01-15990dac082c" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0ef0b29a-83fe-4ff3-9fed-c4d79c100e28" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b5774260-4286-4713-b490-b3a8dffcb004" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/190e8995-4fb8-42a6-9eb6-6d417fe56e1e" />
+
